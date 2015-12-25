@@ -1,0 +1,19 @@
+{
+  "name": "Zentest",
+  "version": "1.0.0",
+  "description": "[InternetShortcut]\r URL=https://github.com/modesttree/Zenject\r IDList=\r HotKey=0\r IconFile=C:\\Users\\Steve\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\0iup0v4g.default\\shortcutCache\\YVkQqQT2mV7VP2VIw+I4mg==.ico\r IconIndex=0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eventropy/Zentest"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eventropy/Zentest/issues"
+  },
+  "homepage": "https://github.com/Eventropy/Zentest"
+}
